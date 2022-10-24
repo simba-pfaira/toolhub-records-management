@@ -8,6 +8,9 @@ const NavigationBar = () => {
         <h2>Toolhub Records Management</h2>
         <ul>
           <li>
+            <a href='/'>Home</a>
+          </li>
+          <li>
             <a href='/records-dashboard'>Records Dashboard</a>
           </li>
           <li>
